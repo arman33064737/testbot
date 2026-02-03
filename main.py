@@ -14,7 +14,7 @@ from telegram.ext import (
 from telegram.error import BadRequest, Forbidden
 
 # ================= কনফিগারেশন (SETTINGS) =================
-BOT_TOKEN = "7689882610:AAEa8-WzHm_Oxw5Q7sEgOfOgqef5RrAs0eY"
+BOT_TOKEN = "8525057709:AAHk8EzWfB268Pnz48gg8scF4OXLr7LPm6M"
 ADMIN_ID = 1146186608 
 
 # ইউজার ডাটা সেভ রাখার ফাইল
